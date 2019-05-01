@@ -7,5 +7,7 @@ Right now it is very stupid since it only changes color. And technically speakin
 The plan is to:
  * significantly improve the visual variations (with more aesthetic, diverse, and understandable transformations of Tux)  
  * significantly improve the technical realization (stop regex, we should certainly use a SVG library)
+ 
+![tux gif](SuperTux.gif)
 
 
