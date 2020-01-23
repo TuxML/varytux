@@ -1,5 +1,7 @@
 # VaryTux: Generator of Tux logos 
 
+**The project has moved to: https://github.com/diverse-project/tuxart**
+
 `sh tuxN.sh` generates 30 variants of Tux and assembles them into a gif. 
 A Python script `tuxml-vary.py` is doing the random transformation of the Tux. 
 Right now it is very stupid since it only changes color. And technically speaking it just replaces some portion of SVG with a regular expression (true story!). 
